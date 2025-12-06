@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+
+
+"""pip install --upgrade protobuf
+# First force-downgrade protobuf to a version that still has runtime_version
+pip install "protobuf>=3.20.3,<4.26.0" --force-reinstall
+
+# For good measure, also pin a compatible TensorFlow (optional but recommended)
+pip install "tensorflow>=2.13.0,<2.17.0" --force-reinstall
+"""
