@@ -54,5 +54,3 @@ After running the script, follow the on-screen prompt:
 - Press **`q`** to quit the application at any time.
 
 ---
-
-✨ *Created with ❤️ by Amit Kadam* ✨
