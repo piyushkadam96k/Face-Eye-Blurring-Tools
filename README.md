@@ -4,16 +4,6 @@ Welcome to the **Face & Eye Blurring** project! This repository contains two pow
 
 ---
 
-## 👨‍💻 Author Info
-
-| **Role** | **Name** |
-| :--- | :--- |
-| **Author** | **Amit Kadam** |
-| **GitHub** | [amitkadam96k](https://github.com/amitkadam96k) |
-| **Instagram** | [piyush_kadam96k](https://www.instagram.com/piyush_kadam96k) |
-
----
-
 ## 📂 Files Description
 
 ### 1. `app.py` - 😶 Face Blur
